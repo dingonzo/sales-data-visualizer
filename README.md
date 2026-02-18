@@ -1,4 +1,5 @@
 # Sales Bar Chart Generator
+[![Java CI with Gradle](https://github.com/dingonzo/sales-data-visualizer/actions/workflows/gradle.yml/badge.svg)](https://github.com/dingonzo/sales-data-visualizer/actions/workflows/gradle.yml)
 A lightweight Java console application that visualizes daily sales data across multiple store locations using ASCII bar charts.
 
 # Description
